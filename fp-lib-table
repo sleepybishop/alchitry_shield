@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name element)(type KiCad)(uri /home/joe/Desktop/alchitry_shield/element)(options "")(descr ""))
+  (lib (name 4UCON)(type KiCad)(uri ${KIPRJMOD}/4UCON.pretty)(options "")(descr ""))
+)
